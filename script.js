@@ -1,4 +1,4 @@
-	<!-- включение/отключение кнопки -->
+<!-- включение/отключение кнопки -->
   <script>
   var user = document.getElementById('la-user-check');
   var phone = document.getElementById('la-phone-check');
