@@ -1,0 +1,2 @@
+чекнуть рамер файлов du -sh -- /directory/* | sort -rh
+найти файл grep -r -H "foot-s-mail" /directory/
