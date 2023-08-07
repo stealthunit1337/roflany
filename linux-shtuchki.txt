@@ -1,2 +1,3 @@
 чекнуть рамер файлов du -sh -- /directory/* | sort -rh
 найти файл grep -r -H "foot-s-mail" /directory/
+найти файл с ограничением по выводу по бокам - N=10; grep -roP ".{0,$N}foo.{0,$N}" .
